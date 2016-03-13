@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Setting>
+  <Block>
+    <Style>0000001100001100000000000</Style>
+    <Color>0,255,64</Color>
+  </Block>
+  <Key>
+    <DownKey>40</DownKey>
+    <DropKey>16</DropKey>
+    <MoveLKey>37</MoveLKey>
+    <MoveRKey>39</MoveRKey>
+    <DeasilrotateKey>38</DeasilrotateKey>
+    <ContrarotateKey>87</ContrarotateKey>
+  </Key>
+  <Graphics>
+    <Horizontal>15</Horizontal>
+    <Vertical>25</Vertical>
+    <Pixels>15</Pixels>
+    <BackColor>128,128,64</BackColor>
+  </Graphics>
+  <ManualOperation>0</ManualOperation>
+</Setting>

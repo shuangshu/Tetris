@@ -1,0 +1,11 @@
+D:\Tetris\Tetris\obj\Release\ResolveAssemblyReference.cache
+D:\Tetris\Tetris\obj\Release\Tetris.Properties.Resources.resources
+D:\Tetris\Tetris\obj\Release\Tetris.TetrisMain.resources
+D:\Tetris\Tetris\obj\Release\Tetris.TetrisSetting.resources
+D:\Tetris\Tetris\obj\Release\Tetris.csproj.GenerateResource.Cache
+D:\Tetris\Tetris\bin\Release\Tetris.exe
+D:\Tetris\Tetris\bin\Release\Tetris.pdb
+D:\Tetris\Tetris\bin\Release\Windows.dll
+D:\Tetris\Tetris\bin\Release\Windows.pdb
+D:\Tetris\Tetris\obj\Release\Tetris.exe
+D:\Tetris\Tetris\obj\Release\Tetris.pdb
